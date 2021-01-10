@@ -1,2 +1,2 @@
 # chessgroundexample
-chesground example
+chessground example
